@@ -11,7 +11,9 @@ namespace FFImageLoadingTransformationsExemplo.ViewModel
 
         public MainViewModel()
         {
-            ImageUrl = @"https://raw.githubusercontent.com/recurser/exif-orientation-examples/master/Landscape_3.jpg";
+            ImageUrl = @"https://raw.githubusercontent.com/TBertuzzi/FFImageLoadingTransformationsExemplo/master/Resources/zelda.png";
+
+
         }
 
         // INotifyPropertyChanged
